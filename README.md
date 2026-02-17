@@ -1,11 +1,4 @@
 ![Codewars](https://www.codewars.com/users/pedrocganem/badges/large)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pedrocganem&theme=dark_lover&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocganem)](https://github.com/anuraghazra/github-readme-stats)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocganem&layout=compact&exclude_repo=academy_modular)](https://github.com/anuraghazra/github-readme-stats) 
-
 <!--
 **pedrocganem/pedrocganem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
